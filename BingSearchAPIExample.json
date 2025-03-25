@@ -1,0 +1,772 @@
+{
+    "_type": "SearchResponse",
+    "queryContext": {
+        "originalQuery": "Microsoft Bing API"
+    },
+    "webPages": {
+        "webSearchUrl": "https://www.bing.com/search?q=Microsoft+Bing+API",
+        "totalEstimatedMatches": 1020000,
+        "value": [
+            {
+                "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+                "name": "Web Search API | Microsoft Bing",
+                "url": "https://www.microsoft.com/en-us/bing/apis/bing-web-search-api",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://www.microsoft.com/en-us/bing/apis/bing-web-search-api",
+                "snippet": "Bring intelligent search to your apps and harness the ability to comb billions of webpages, images, videos, and news with a single API call. Enable safe, ad-free, location-aware search results, surfacing relevant information from billions of web documents. use the arrow keys to navigate through the ...",
+                "deepLinks": [
+                    {
+                        "name": "Pricing",
+                        "url": "https://www.microsoft.com/en-us/bing/apis/pricing",
+                        "snippet": "The Bing Custom Search API gives you powerful ranking, a global-scale search index, and document processing with fast, simple setup. The core technology works in four steps—by identifying on-topic sites and images, providing automatic query suggestions, applying the Bing ranker, and delivering relevant search results.",
+                        "deepLinks": []
+                    },
+                    {
+                        "name": "Bing News Search",
+                        "url": "https://www.microsoft.com/en-us/bing/apis/bing-news-search-api",
+                        "snippet": "Search the web for news articles with Bing News Search API v7. Results include details like authoritative image of the news article, related news and categories, provider info, article URL, and date added. With the API v7, discover new sorting and filtering options that simplify finding specific results in trending news topics.",
+                        "deepLinks": []
+                    },
+                    {
+                        "name": "Bing Custom Search",
+                        "url": "https://www.microsoft.com/en-us/bing/apis/bing-custom-search-api",
+                        "snippet": "The Bing Custom Search API gives you powerful ranking, a global-scale search index, and document processing with fast, simple setup. The core technology works in four steps—by identifying on-topic sites and images, providing automatic query suggestions, applying the Bing ranker, and delivering ...",
+                        "deepLinks": []
+                    },
+                    {
+                        "name": "Bing Search API documentation",
+                        "url": "https://learn.microsoft.com/en-us/bing/search-apis/bing-web-search/",
+                        "snippet": "Upgrade to Microsoft Edge to take advantage of the latest features, security updates, and technical support. ... Download Microsoft Edge More info about Internet Explorer and Microsoft Edge. Table of contents. Bing Search API documentation. The Bing Search APIs let you build web-connected apps and services that find webpages, images, news and ...",
+                        "deepLinks": []
+                    },
+                    {
+                        "name": "Bing Visual Search",
+                        "url": "https://www.microsoft.com/en-us/bing/apis/bing-visual-search-api",
+                        "snippet": "3 Bot passes visual context to the Bing Visual Search API. 4 Bot gets additional information from Bing Entity Search for rich context on people, place, artwork, monument, and objects. 5 Bot gets additional information for barcodes. 6 Optionally Bot gets more information on barcodes/queries exclusively from your domain through the Bing Custom ...",
+                        "deepLinks": []
+                    },
+                    {
+                        "name": "Bing Search APIs",
+                        "url": "https://www.microsoft.com/en-us/bing/apis",
+                        "snippet": "Bing Search APIs. Add search capabilities to your site with our suite of APIs that enable searching via an API for Web, Images, News, Videos, Entities, Visual Search, Custom Search, Autosuggest and Spell.",
+                        "deepLinks": []
+                    }
+                ],
+                "dateLastCrawled": "2024-12-11T00:13:00.0000000Z",
+                "language": "en",
+                "isNavigational": true,
+                "noCache": false,
+                "siteName": "Microsoft"
+            },
+            {
+                "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+                "name": "Bing Search APIs | Microsoft Bing",
+                "url": "https://www.microsoft.com/en-us/bing/apis",
+                "thumbnailUrl": "https://www.bing.com/th?id=OIP.DRpaPwFOp_OOYwmpuFqfTAHaEK&w=80&h=80&c=1&pid=5.1",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://www.microsoft.com/en-us/bing/apis",
+                "snippet": "Bing Search APIs. Add search capabilities to your site with our suite of APIs that enable searching via an API for Web, Images, News, Videos, Entities, Visual Search, Custom Search, Autosuggest and Spell.",
+                "dateLastCrawled": "2024-12-10T23:23:00.0000000Z",
+                "primaryImageOfPage": {
+                    "thumbnailUrl": "https://www.bing.com/th?id=OIP.DRpaPwFOp_OOYwmpuFqfTAHaEK&w=80&h=80&c=1&pid=5.1",
+                    "width": 80,
+                    "height": 80,
+                    "sourceWidth": 474,
+                    "sourceHeight": 266,
+                    "imageId": "OIP.DRpaPwFOp_OOYwmpuFqfTAHaEK"
+                },
+                "language": "en",
+                "isNavigational": false,
+                "noCache": false,
+                "siteName": "Microsoft"
+            },
+            {
+                "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+                "name": "Bing Search API documentation - Bing Search Services | Microsoft Learn",
+                "url": "https://learn.microsoft.com/en-us/bing/search-apis/bing-web-search/",
+                "datePublished": "2024-11-23T00:00:00.0000000",
+                "datePublishedDisplayText": "Nov 23, 2024",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://learn.microsoft.com/en-us/bing/search-apis/bing-web-search",
+                "snippet": "Learn how to use the Bing Search APIs to build web-connected apps and services that find webpages, images, news and more without advertisements. Compare the Bing Search APIs, see how-to guides, reference and pricing details.",
+                "dateLastCrawled": "2024-12-11T18:29:00.0000000Z",
+                "language": "en",
+                "isNavigational": false,
+                "noCache": false,
+                "siteName": "Microsoft Learn"
+            },
+            {
+                "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+                "name": "Bing Search API Pricing | Microsoft Bing",
+                "url": "https://www.microsoft.com/en-us/bing/apis/pricing",
+                "thumbnailUrl": "https://www.bing.com/th?id=OIP.XzbsJDEeWdMeFibgR-tHHgAAAA&w=80&h=80&c=1&pid=5.1",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://www.microsoft.com/en-us/bing/apis/pricing",
+                "snippet": "Learn how to use Bing APIs to enable search capabilities in your applications and pay only for what you use. Compare different plans and features, such as Bing Image Search, Bing News Search, Bing Visual Search, and more.",
+                "dateLastCrawled": "2024-12-10T23:26:00.0000000Z",
+                "primaryImageOfPage": {
+                    "thumbnailUrl": "https://www.bing.com/th?id=OIP.XzbsJDEeWdMeFibgR-tHHgAAAA&w=80&h=80&c=1&pid=5.1",
+                    "width": 80,
+                    "height": 80,
+                    "sourceWidth": 272,
+                    "sourceHeight": 223,
+                    "imageId": "OIP.XzbsJDEeWdMeFibgR-tHHgAAAA"
+                },
+                "language": "en",
+                "isNavigational": false,
+                "noCache": false,
+                "siteName": "Microsoft"
+            },
+            {
+                "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+                "name": "Bing News Search API | Microsoft Bing",
+                "url": "https://www.microsoft.com/en-us/bing/apis/bing-news-search-api",
+                "thumbnailUrl": "https://www.bing.com/th?id=OIP.RGSY-6nmBF5Gc-tuAdBOpAAAAA&w=80&h=80&c=1&pid=5.1",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://www.microsoft.com/en-us/bing/apis/bing-news-search-api",
+                "snippet": "Search the web for news articles with Bing News Search API v7. Results include details like authoritative image of the news article, related news and categories, provider info, article URL, and date added. With the API v7, discover new sorting and filtering options that simplify finding specific results in trending news topics.",
+                "dateLastCrawled": "2024-12-11T21:04:00.0000000Z",
+                "primaryImageOfPage": {
+                    "thumbnailUrl": "https://www.bing.com/th?id=OIP.RGSY-6nmBF5Gc-tuAdBOpAAAAA&w=80&h=80&c=1&pid=5.1",
+                    "width": 80,
+                    "height": 80,
+                    "sourceWidth": 363,
+                    "sourceHeight": 204,
+                    "imageId": "OIP.RGSY-6nmBF5Gc-tuAdBOpAAAAA"
+                },
+                "language": "en",
+                "isNavigational": false,
+                "noCache": false,
+                "siteName": "Microsoft"
+            },
+            {
+                "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+                "name": "Bing Custom Search API | Microsoft Bing",
+                "url": "https://www.microsoft.com/en-us/bing/apis/bing-custom-search-api",
+                "thumbnailUrl": "https://www.bing.com/th?id=OIP.iAFX7oIum8w6OdRLvEXrSAHaEK&w=80&h=80&c=1&pid=5.1",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://www.microsoft.com/en-us/bing/apis/bing-custom-search-api",
+                "snippet": "The Bing Custom Search API gives you powerful ranking, a global-scale search index, and document processing with fast, simple setup. The core technology works in four steps—by identifying on-topic sites and images, providing automatic query suggestions, applying the Bing ranker, and delivering ...",
+                "dateLastCrawled": "2024-12-09T20:22:00.0000000Z",
+                "primaryImageOfPage": {
+                    "thumbnailUrl": "https://www.bing.com/th?id=OIP.iAFX7oIum8w6OdRLvEXrSAHaEK&w=80&h=80&c=1&pid=5.1",
+                    "width": 80,
+                    "height": 80,
+                    "sourceWidth": 474,
+                    "sourceHeight": 266,
+                    "imageId": "OIP.iAFX7oIum8w6OdRLvEXrSAHaEK"
+                },
+                "language": "en",
+                "isNavigational": false,
+                "noCache": false,
+                "siteName": "Microsoft"
+            },
+            {
+                "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+                "name": "What is the Bing Web Search API? - Bing Search Services",
+                "url": "https://learn.microsoft.com/en-us/bing/search-apis/bing-web-search/overview",
+                "datePublished": "2022-04-05T00:00:00.0000000",
+                "datePublishedDisplayText": "Apr 5, 2022",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://learn.microsoft.com/en-us/bing/search-apis/bing-web-search/overview",
+                "snippet": "Upgrade to Microsoft Edge to take advantage of the latest features, security updates, and technical support. Download Microsoft Edge More info about Internet Explorer and Microsoft Edge. ... Bing Web Search API may only be used as a result of a direct user query or search, or as a result of an action within an app or experience that logically ...",
+                "dateLastCrawled": "2024-12-11T06:31:00.0000000Z",
+                "language": "en",
+                "isNavigational": false,
+                "noCache": false,
+                "siteName": "Microsoft Learn"
+            },
+            {
+                "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+                "name": "Visual Search API | Microsoft Bing",
+                "url": "https://www.microsoft.com/en-us/bing/apis/bing-visual-search-api",
+                "thumbnailUrl": "https://www.bing.com/th?id=OIP.lI417PEU2pJ2ECTx6zJf5wHaEL&w=80&h=80&c=1&pid=5.1",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://www.microsoft.com/en-us/bing/apis/bing-visual-search-api",
+                "snippet": "3 Bot passes visual context to the Bing Visual Search API. 4 Bot gets additional information from Bing Entity Search for rich context on people, place, artwork, monument, and objects. 5 Bot gets additional information for barcodes. 6 Optionally Bot gets more information on barcodes/queries exclusively from your domain through the Bing Custom ...",
+                "dateLastCrawled": "2024-12-11T16:34:00.0000000Z",
+                "primaryImageOfPage": {
+                    "thumbnailUrl": "https://www.bing.com/th?id=OIP.lI417PEU2pJ2ECTx6zJf5wHaEL&w=80&h=80&c=1&pid=5.1",
+                    "width": 80,
+                    "height": 80,
+                    "sourceWidth": 474,
+                    "sourceHeight": 267,
+                    "imageId": "OIP.lI417PEU2pJ2ECTx6zJf5wHaEL"
+                },
+                "language": "en",
+                "isNavigational": false,
+                "noCache": false,
+                "siteName": "Microsoft"
+            },
+            {
+                "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+                "name": "Bing Search Services developer documentation | Microsoft Learn",
+                "url": "https://learn.microsoft.com/en-us/bing/search-apis/",
+                "datePublished": "2024-11-23T00:00:00.0000000",
+                "datePublishedDisplayText": "Nov 23, 2024",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://learn.microsoft.com/en-us/bing/search-apis",
+                "snippet": "Official developer documentation for Bing Search Services. Learn how to build web-connected apps and services that find webpages, images, news, videos, and more without advertisements. Bing Web Search API",
+                "dateLastCrawled": "2024-12-10T11:25:00.0000000Z",
+                "language": "en",
+                "isNavigational": false,
+                "noCache": false,
+                "siteName": "Microsoft Learn"
+            },
+            {
+                "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+                "name": "Bing Web Search API v7 Reference - Bing Services | Microsoft Learn",
+                "url": "https://learn.microsoft.com/en-us/bing/search-apis/bing-web-search/reference/endpoints",
+                "datePublished": "2020-10-27T00:00:00.0000000",
+                "datePublishedDisplayText": "Oct 27, 2020",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://learn.microsoft.com/en-us/bing/search-apis/bing-web-search/reference/endpoints",
+                "snippet": "The Web Search API lets you send a search query to Bing and get back search results that include links to webpages, images, and more. This section provides technical details about the query parameters and headers that you use to request web search results and the JSON response objects that contain them.",
+                "dateLastCrawled": "2024-12-10T20:34:00.0000000Z",
+                "language": "en",
+                "isNavigational": false,
+                "noCache": false,
+                "siteName": "Microsoft Learn"
+            }
+        ],
+        "someResultsRemoved": true
+    },
+    "entities": {
+        "value": [
+            {
+                "id": "https://api.bing.microsoft.com/api/v7/#Entities.0",
+                "contractualRules": [
+                    {
+                        "_type": "ContractualRules/LicenseAttribution",
+                        "targetPropertyName": "description",
+                        "mustBeCloseToContent": true,
+                        "license": {
+                            "name": "CC-BY-SA",
+                            "url": "http://creativecommons.org/licenses/by-sa/3.0/"
+                        },
+                        "licenseNotice": "Text under CC-BY-SA license"
+                    },
+                    {
+                        "_type": "ContractualRules/LinkAttribution",
+                        "targetPropertyName": "description",
+                        "mustBeCloseToContent": true,
+                        "text": "Wikipedia",
+                        "url": "https://en.wikipedia.org/wiki/Microsoft_Bing"
+                    },
+                    {
+                        "_type": "ContractualRules/MediaAttribution",
+                        "targetPropertyName": "image",
+                        "mustBeCloseToContent": true,
+                        "url": "https://en.wikipedia.org/wiki/Microsoft_Bing"
+                    }
+                ],
+                "webSearchUrl": "https://www.bing.com/entityexplore?q=Microsoft+Bing&filters=sid:%221878d09e-59d3-4e8c-8580-ca67d2ec2d2d%22&elv=AXXfrEiqqD9r3GuelwApulpMSzao*ntHGKEsm0Wfj47e0kJUfVgNsbBzNybo0915tPXn1XICagHAAVUFAxMA!TeySobdDcd1OPRUALUqdSNR",
+                "name": "Microsoft Bing",
+                "url": "https://www.bing.com/",
+                "image": {
+                    "name": "Microsoft Bing",
+                    "thumbnailUrl": "http://www.bing.com/th?id=OSK.0LzuAbZ16BECWi5TolBjqZTeFxF7NIgD-beYtcwGEnc&w=75&h=110&c=7",
+                    "provider": [
+                        {
+                            "_type": "Organization",
+                            "url": "https://en.wikipedia.org/wiki/Microsoft_Bing"
+                        }
+                    ],
+                    "hostPageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bing_Fluent_Logo.svg/75px-Bing_Fluent_Logo.svg.png",
+                    "width": 75,
+                    "height": 110,
+                    "sourceWidth": 75,
+                    "sourceHeight": 113
+                },
+                "description": "Microsoft Bing, commonly referred to as Bing, is a search engine owned and operated by Microsoft. The service traces its roots back to Microsoft's earlier search engines, including MSN Search, Windows Live Search, and Live Search. Bing offers a broad spectrum of search services, encompassing web, video, image, and map search products, all developed using ASP.NET.",
+                "entityPresentationInfo": {
+                    "entityScenario": "DominantEntity",
+                    "entityTypeDisplayHint": "Search engine by Microsoft"
+                },
+                "bingId": "1878d09e-59d3-4e8c-8580-ca67d2ec2d2d"
+            }
+        ]
+    },
+    "relatedSearches": {
+        "id": "https://api.bing.microsoft.com/api/v7/#RelatedSearches",
+        "value": [
+            {
+                "text": "bing home page api",
+                "displayText": "bing home page api",
+                "webSearchUrl": "https://www.bing.com/search?q=bing+home+page+api"
+            },
+            {
+                "text": "bing openapi",
+                "displayText": "bing openapi",
+                "webSearchUrl": "https://www.bing.com/search?q=bing+openapi"
+            },
+            {
+                "text": "bing product search api",
+                "displayText": "bing product search api",
+                "webSearchUrl": "https://www.bing.com/search?q=bing+product+search+api"
+            },
+            {
+                "text": "microsoft bing web search api",
+                "displayText": "microsoft bing web search api",
+                "webSearchUrl": "https://www.bing.com/search?q=microsoft+bing+web+search+api"
+            },
+            {
+                "text": "bing package tracking api",
+                "displayText": "bing package tracking api",
+                "webSearchUrl": "https://www.bing.com/search?q=bing+package+tracking+api"
+            },
+            {
+                "text": "how to get bing api key",
+                "displayText": "how to get bing api key",
+                "webSearchUrl": "https://www.bing.com/search?q=how+to+get+bing+api+key"
+            },
+            {
+                "text": "bing search api pricing",
+                "displayText": "bing search api pricing",
+                "webSearchUrl": "https://www.bing.com/search?q=bing+search+api+pricing"
+            },
+            {
+                "text": "microsoft bing api key",
+                "displayText": "microsoft bing api key",
+                "webSearchUrl": "https://www.bing.com/search?q=microsoft+bing+api+key"
+            }
+        ]
+    },
+    "videos": {
+        "id": "https://api.bing.microsoft.com/api/v7/#Videos",
+        "readLink": "https://api.bing.microsoft.com/api/v7/videos/search?q=Microsoft+Bing+API",
+        "webSearchUrl": "https://www.bing.com/videos/search?q=Microsoft+Bing+API",
+        "isFamilyFriendly": true,
+        "value": [
+            {
+                "webSearchUrl": "https://www.bing.com/videos/search?q=Microsoft%20Bing%20API&view=detail&mid=EA2C5621915749C55E3FEA2C5621915749C55E3F",
+                "name": "Implementing Azure: Provide Search Results Using Bing Web Search API | packtpub.com",
+                "description": "This video tutorial has been taken from Implementing Azure Cognitive Services for Search. You can learn more and buy the full video course here [https://bit.ly/2QPxK32] Find us on Facebook -- http://www.facebook.com/Packtvideo Follow us on Twitter - http://www.twitter.com/packtvideo",
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.MwEGnpJngBps2WcUoFLoQAHgFo&pid=Api",
+                "datePublished": "2019-06-07T10:18:49.0000000",
+                "publisher": [
+                    {
+                        "name": "YouTube"
+                    }
+                ],
+                "creator": {
+                    "name": "Packt"
+                },
+                "isAccessibleForFree": true,
+                "contentUrl": "https://www.youtube.com/watch?v=8XxrPTWSFpc",
+                "hostPageUrl": "https://www.youtube.com/watch?v=8XxrPTWSFpc",
+                "encodingFormat": "mp4",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=8XxrPTWSFpc",
+                "width": 1920,
+                "height": 1080,
+                "duration": "PT3M15S",
+                "motionThumbnailUrl": "https://tse1.mm.bing.net/th?id=OM.P17FSVeRIVYs6g_1732482315&pid=Api",
+                "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/8XxrPTWSFpc?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+                "allowHttpsEmbed": true,
+                "viewCount": 8358,
+                "thumbnail": {
+                    "width": 160,
+                    "height": 120
+                },
+                "allowMobileEmbed": true,
+                "isSuperfresh": false
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/videos/search?q=Microsoft%20Bing%20API&view=detail&mid=15A786BCF56661A1134C15A786BCF56661A1134C",
+                "name": "How To Generate a Bing API Key",
+                "description": "http://videopizzazz.com - How To Generate a Bing API Key Mісrоѕоft Lаunсhеѕ the New Wіndоwѕ Azurе Mаrkеtрlасе Gооglе аnd Bіng search APIѕ lеt you develop software tо rеtrіеvе ѕеаrсh rеѕultѕ frоm thеѕе mаjоr ѕеаrсh еngіnеѕ programmatically. Yоu can uѕе rеԛuеѕtѕ to get еіthеr wеb ...",
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OVP.jSDOJdMqxPbXgCGesKBHAAHgFo&pid=Api",
+                "datePublished": "2016-01-25T03:51:38.0000000",
+                "publisher": [
+                    {
+                        "name": "YouTube"
+                    }
+                ],
+                "creator": {
+                    "name": "Video Pizzazz"
+                },
+                "isAccessibleForFree": true,
+                "contentUrl": "https://www.youtube.com/watch?v=RXGfb7jIM0c",
+                "hostPageUrl": "https://www.youtube.com/watch?v=RXGfb7jIM0c",
+                "encodingFormat": "mp4",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=RXGfb7jIM0c",
+                "width": 1280,
+                "height": 720,
+                "duration": "PT1M49S",
+                "motionThumbnailUrl": "https://tse4.mm.bing.net/th?id=OM.TBOhYWb1vIanFQ_1725492626&pid=Api",
+                "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/RXGfb7jIM0c?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+                "allowHttpsEmbed": true,
+                "viewCount": 17324,
+                "thumbnail": {
+                    "width": 160,
+                    "height": 120
+                },
+                "allowMobileEmbed": true,
+                "isSuperfresh": false
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/videos/search?q=Microsoft%20Bing%20API&view=detail&mid=A0016724336A9FB0000DA0016724336A9FB0000D",
+                "name": "Azure Tutorial | Web Search With Microsoft Bing Search API In Python",
+                "description": "The Microsoft Bing Search API is service provided by Microsoft Azure to search contents on the web programmatically. Some of the things you can do with Bing Search API such as market research analysis, content discovery, SEO, data collections, and brand monitoring. Throughout the tutorial, I will cover how to create a Resource Group, add Bing ...",
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OVP.3Y6TPYsUnr8E6Ew6BelLQQHgFo&pid=Api",
+                "datePublished": "2024-01-17T00:30:24.0000000",
+                "publisher": [
+                    {
+                        "name": "YouTube"
+                    }
+                ],
+                "creator": {
+                    "name": "Jie Jenn"
+                },
+                "isAccessibleForFree": true,
+                "contentUrl": "https://www.youtube.com/watch?v=gqMwGVvZMDY",
+                "hostPageUrl": "https://www.youtube.com/watch?v=gqMwGVvZMDY",
+                "encodingFormat": "mp4",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=gqMwGVvZMDY",
+                "width": 3840,
+                "height": 2160,
+                "duration": "PT22M58S",
+                "motionThumbnailUrl": "https://tse3.mm.bing.net/th?id=OM.DQCwn2ozJGcBoA_1725023543&pid=Api",
+                "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/gqMwGVvZMDY?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+                "allowHttpsEmbed": true,
+                "viewCount": 6464,
+                "thumbnail": {
+                    "width": 160,
+                    "height": 120
+                },
+                "allowMobileEmbed": true,
+                "isSuperfresh": false
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/videos/search?q=Microsoft%20Bing%20API&view=detail&mid=325EB8171188AC0FD991325EB8171188AC0FD991",
+                "name": "How to request ad report data through API? | Beginner Friendly | Microsoft Bing API",
+                "description": "If you are new to API for advertising, this tutorial is for you! It will show you how to create a sandbox account in Microsoft Advertising and generate test data for free to make your first API call. Hope you enjoy it! 🔎 Chapters 0:00 What do you need to request an API call? 1:22 How to create a Sandbox Account? 7:25 Where to find the ...",
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OVP.CsBqgaPhD18ITwh3OUSlowHgFo&pid=Api",
+                "datePublished": "2022-07-31T17:00:19.0000000",
+                "publisher": [
+                    {
+                        "name": "YouTube"
+                    }
+                ],
+                "creator": {
+                    "name": "Jocelyn Chan"
+                },
+                "isAccessibleForFree": true,
+                "contentUrl": "https://www.youtube.com/watch?v=PGw5NlGerMA",
+                "hostPageUrl": "https://www.youtube.com/watch?v=PGw5NlGerMA",
+                "encodingFormat": "mp4",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=PGw5NlGerMA",
+                "width": 1920,
+                "height": 1080,
+                "duration": "PT28M14S",
+                "motionThumbnailUrl": "https://tse2.mm.bing.net/th?id=OM.kdkPrIgRF7heMg_1731499328&pid=Api",
+                "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/PGw5NlGerMA?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+                "allowHttpsEmbed": true,
+                "viewCount": 4384,
+                "thumbnail": {
+                    "width": 160,
+                    "height": 120
+                },
+                "allowMobileEmbed": true,
+                "isSuperfresh": false
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/videos/search?q=Microsoft%20Bing%20API&view=detail&mid=9395B51A95932F8CEF529395B51A95932F8CEF52",
+                "name": "Azure Logic App - Bing Maps API Key",
+                "description": "Azure Logic App - Bing Maps API Key",
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.LmimKS0dM8MwLUQLjGTlfQHgFo&pid=Api",
+                "datePublished": "2019-08-19T09:14:22.0000000",
+                "publisher": [
+                    {
+                        "name": "YouTube"
+                    }
+                ],
+                "creator": {
+                    "name": "ramit girdhar"
+                },
+                "isAccessibleForFree": true,
+                "contentUrl": "https://www.youtube.com/watch?v=MEevEAAng0s",
+                "hostPageUrl": "https://www.youtube.com/watch?v=MEevEAAng0s",
+                "encodingFormat": "mp4",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=MEevEAAng0s",
+                "width": 1920,
+                "height": 1080,
+                "duration": "PT1M56S",
+                "motionThumbnailUrl": "https://tse1.mm.bing.net/th?id=OM2.Uu-ML5OVGrWVkw_1731463411&pid=Api",
+                "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/MEevEAAng0s?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+                "allowHttpsEmbed": true,
+                "viewCount": 1579,
+                "thumbnail": {
+                    "width": 160,
+                    "height": 120
+                },
+                "allowMobileEmbed": true,
+                "isSuperfresh": false
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/videos/search?q=Microsoft%20Bing%20API&view=detail&mid=42FEA9D61A6FBB1562F942FEA9D61A6FBB1562F9",
+                "name": "Getting started with Bing Maps",
+                "description": "Microsoft Bing Maps Senior Program Manager Justine Coates, and Program Manager Peter Brasil show how easy it is to get started using the developer accessible geospatial platform of Microsoft Bing Maps. The mapping platform has been built especially for developers, with an easy to use Bing Maps key and an interactive SDK with a vast code library ...",
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.vKSkUa948DTzt5Xv3PAETwHgFo&pid=Api",
+                "datePublished": "2022-03-09T18:48:46.0000000",
+                "publisher": [
+                    {
+                        "name": "YouTube"
+                    }
+                ],
+                "creator": {
+                    "name": "Grey Matter Ltd"
+                },
+                "isAccessibleForFree": true,
+                "contentUrl": "https://www.youtube.com/watch?v=aUetEeVEemo",
+                "hostPageUrl": "https://www.youtube.com/watch?v=aUetEeVEemo",
+                "encodingFormat": "mp4",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=aUetEeVEemo",
+                "width": 1280,
+                "height": 720,
+                "duration": "PT19M57S",
+                "motionThumbnailUrl": "https://tse1.mm.bing.net/th?id=OM.-WIVu28a1qn-Qg_1733430394&pid=Api",
+                "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/aUetEeVEemo?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+                "allowHttpsEmbed": true,
+                "viewCount": 4507,
+                "thumbnail": {
+                    "width": 160,
+                    "height": 120
+                },
+                "allowMobileEmbed": true,
+                "isSuperfresh": false
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/videos/search?q=Microsoft%20Bing%20API&view=detail&mid=C9DFF7A243EEB99800CEC9DFF7A243EEB99800CE",
+                "name": "Announcing the Next Wave of AI Innovation with Microsoft Bing and Edge",
+                "description": "Learn more about the next generation of AI search and web innovation. The new Microsoft Bing and Edge now features a more visual search with rich image and video answers. We've also shifted from single use chat sessions to a multi-session, context experience with chat history and persistent chat within Edge. Finally, Microsoft has opened ...",
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OVP.iWUklHm0hKsg2yECuxi1BwHgFo&pid=Api",
+                "datePublished": "2023-05-04T07:06:10.0000000",
+                "publisher": [
+                    {
+                        "name": "YouTube"
+                    }
+                ],
+                "creator": {
+                    "name": "Bing"
+                },
+                "isAccessibleForFree": true,
+                "contentUrl": "https://www.youtube.com/watch?v=tRWYOAMZJf8",
+                "hostPageUrl": "https://www.youtube.com/watch?v=tRWYOAMZJf8",
+                "encodingFormat": "mp4",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=tRWYOAMZJf8",
+                "width": 1920,
+                "height": 1080,
+                "duration": "PT1M17S",
+                "motionThumbnailUrl": "https://tse4.mm.bing.net/th?id=OM.zgCYue5DovffyQ_1726002499&pid=Api",
+                "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/tRWYOAMZJf8?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+                "allowHttpsEmbed": true,
+                "viewCount": 72046,
+                "thumbnail": {
+                    "width": 160,
+                    "height": 120
+                },
+                "allowMobileEmbed": true,
+                "isSuperfresh": false
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/videos/search?q=Microsoft%20Bing%20API&view=detail&mid=9992501BFDF8225C83EE9992501BFDF8225C83EE",
+                "name": "See what it's like to use Bing's new AI search feature",
+                "description": "Microsoft announced an updated version of its Bing search engine using a more advanced version of the tech behind ChatGPT.",
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.8c7hckKcWpLmk89q4X7f_wEsCo&pid=Api",
+                "datePublished": "2023-02-07T19:36:00.0000000",
+                "publisher": [
+                    {
+                        "name": "Microsoft News"
+                    }
+                ],
+                "creator": {
+                    "name": "CNN Money"
+                },
+                "contentUrl": "https://www.msn.com/en-us/money/make-the-most/see-what-its-like-to-use-bings-new-ai-search-feature/vi-AA17ehOQ",
+                "hostPageUrl": "https://www.msn.com/en-us/money/make-the-most/see-what-its-like-to-use-bings-new-ai-search-feature/vi-AA17ehOQ",
+                "encodingFormat": "mp4",
+                "hostPageDisplayUrl": "https://www.msn.com/en-us/money/make-the-most/see-what-its-like-to-use-bings-new-ai-search-feature/vi-AA17ehOQ",
+                "width": 1920,
+                "height": 1080,
+                "duration": "PT2M9S",
+                "motionThumbnailUrl": "https://tse1.mm.bing.net/th?id=OM1.7oNcIvj9G1CSmQ&pid=Api",
+                "viewCount": 0,
+                "thumbnail": {
+                    "width": 160,
+                    "height": 89
+                },
+                "isSuperfresh": false
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/videos/search?q=Microsoft%20Bing%20API&view=detail&mid=9C6A093588D29B8BC5189C6A093588D29B8BC518",
+                "name": "Introducing your copilot for the web: AI-powered Bing and Microsoft Edge",
+                "description": "Reinventing search with a new AI-powered Microsoft Bing and Edge, your copilot for the web. Today, we launched an all new, AI-powered Bing search engine and Edge browser, available in preview now, to deliver better search, more complete answers, a new chat experience and the ability to generate content. We think of these tools as an AI copilot ...",
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OVP.FlAo7bO58AqAmnJxZ8jmjwHgFo&pid=Api",
+                "datePublished": "2023-02-08T00:11:45.0000000",
+                "publisher": [
+                    {
+                        "name": "YouTube"
+                    }
+                ],
+                "creator": {
+                    "name": "Bing"
+                },
+                "isAccessibleForFree": true,
+                "contentUrl": "https://www.youtube.com/watch?v=rOeRWRJ16yY",
+                "hostPageUrl": "https://www.youtube.com/watch?v=rOeRWRJ16yY",
+                "encodingFormat": "mp4",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=rOeRWRJ16yY",
+                "width": 1920,
+                "height": 1080,
+                "duration": "PT55M10S",
+                "motionThumbnailUrl": "https://tse4.mm.bing.net/th?id=OM.GMWLm9KINQlqnA_1732425260&pid=Api",
+                "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/rOeRWRJ16yY?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+                "allowHttpsEmbed": true,
+                "viewCount": 1121179,
+                "thumbnail": {
+                    "width": 160,
+                    "height": 120
+                },
+                "allowMobileEmbed": true,
+                "isSuperfresh": false
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/videos/search?q=Microsoft%20Bing%20API&view=detail&mid=CC085BBB6BBA15E59E30CC085BBB6BBA15E59E30",
+                "name": "How to Automate Bing Searches with Rewards Search Automator",
+                "description": "Effortlessly maximize your Microsoft Rewards points with a single click using our Bing Search Automation Chrome Extension - Rewards Search Automator. This innovative tool automates Bing searches, supercharging your Bing Rewards journey. Best extension to Automate your Bing Searches. INSTALL HERE: https://chromewebstore.google.com/detail/rewards ...",
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OVP.fsZYAqBb3B9Srpqy2clzKQHgFo&pid=Api",
+                "datePublished": "2023-12-15T09:32:22.0000000",
+                "publisher": [
+                    {
+                        "name": "YouTube"
+                    }
+                ],
+                "creator": {
+                    "name": "GetProjects"
+                },
+                "isAccessibleForFree": true,
+                "contentUrl": "https://www.youtube.com/watch?v=dRS3d1mnNNg",
+                "hostPageUrl": "https://www.youtube.com/watch?v=dRS3d1mnNNg",
+                "encodingFormat": "mp4",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=dRS3d1mnNNg",
+                "width": 1920,
+                "height": 1080,
+                "duration": "PT1M19S",
+                "motionThumbnailUrl": "https://tse2.mm.bing.net/th?id=OM.MJ7lFbpru1sIzA_1732056523&pid=Api",
+                "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/dRS3d1mnNNg?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+                "allowHttpsEmbed": true,
+                "viewCount": 35027,
+                "thumbnail": {
+                    "width": 160,
+                    "height": 120
+                },
+                "allowMobileEmbed": true,
+                "isSuperfresh": false
+            }
+        ],
+        "scenario": "List"
+    },
+    "rankingResponse": {
+        "mainline": {
+            "items": [
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 0,
+                    "value": {
+                        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 1,
+                    "value": {
+                        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 2,
+                    "value": {
+                        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 3,
+                    "value": {
+                        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 4,
+                    "value": {
+                        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+                    }
+                },
+                {
+                    "answerType": "Videos",
+                    "value": {
+                        "id": "https://api.bing.microsoft.com/api/v7/#Videos"
+                    }
+                },
+                {
+                    "answerType": "Videos"
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 5,
+                    "value": {
+                        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 6,
+                    "value": {
+                        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 7,
+                    "value": {
+                        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 8,
+                    "value": {
+                        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 9,
+                    "value": {
+                        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+                    }
+                },
+                {
+                    "answerType": "RelatedSearches",
+                    "value": {
+                        "id": "https://api.bing.microsoft.com/api/v7/#RelatedSearches"
+                    }
+                }
+            ]
+        },
+        "sidebar": {
+            "items": [
+                {
+                    "answerType": "Entities",
+                    "resultIndex": 0,
+                    "value": {
+                        "id": "https://api.bing.microsoft.com/api/v7/#Entities.0"
+                    }
+                }
+            ]
+        }
+    }
+}

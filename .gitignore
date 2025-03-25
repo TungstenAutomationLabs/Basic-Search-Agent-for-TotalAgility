@@ -1,0 +1,5 @@
+# Don't upload pptx
+*.pptx
+
+# Ignore the old dir:
+OLD
