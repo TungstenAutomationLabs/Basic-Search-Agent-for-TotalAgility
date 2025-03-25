@@ -1,6 +1,6 @@
 ## Creating a Basic Search Agent in TotalAgility ##
 For the accompanying tutorial videos, see:
-(https://www.tungstendemocenter.com/items/creating-a-basic-ai-agent-in-totalagility)[https://www.tungstendemocenter.com/items/creating-a-basic-ai-agent-in-totalagility] 
+[Creating a Basic AI Agent in TotalAgility](https://www.tungstendemocenter.com/items/creating-a-basic-ai-agent-in-totalagility)
 
 1. Create the web service for Bing search
     ```https://api.bing.microsoft.com/v7.0/search?q=```
