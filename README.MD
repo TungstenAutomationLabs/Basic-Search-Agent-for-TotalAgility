@@ -1,3 +1,10 @@
+**IMPORTANT:** As of the 11th August Microsoft have retired the Bing Search API:
+[Bing Search API Retirement Announcement](https://learn.microsoft.com/en-us/lifecycle/announcements/bing-search-api-retirement)
+
+To follow this tutorial, please select an alternative web service.
+
+
+
 ## Creating a Basic Search Agent in TotalAgility ##
 For the accompanying tutorial videos, see:
 [Creating a Basic AI Agent in TotalAgility](https://www.tungstendemocenter.com/items/creating-a-basic-ai-agent-in-totalagility)
